@@ -1,0 +1,33 @@
+.container-nav{
+    background-color: #587ffc;
+    padding: 0px 0px;
+
+   .heading-container {
+       color: #e5eaF5;
+   }
+   
+    ul{
+        list-style-type: none ;
+
+        li{
+
+            color: #e5eaF5;
+
+            &:hover{
+
+                color:black;
+                font-weight: bold;
+            }
+        }
+    }
+
+}
+.icon-nav{
+
+    .icon-container{
+        display: flex;
+        justify-content: space-between;
+        color: #e5eaF5;
+
+    }
+}

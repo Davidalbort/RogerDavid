@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.App {
+    display: grid;
+    grid-template-columns: minmax(120px, 33%) 1fr;
+    padding: 0;
+    margin: 0;
+    
+    @media only screen and (max-width: 600px){
+
+
+        display: block;
+    
+        
+    }
+}
+  
+
+.sidebar {
+    
+    height: 100vh;
+    background-color: #587ffc;
+    font-size: 2rem;
+    text-align:right ;
+    padding: 0px 40px;
+    top: 0;
+    position: sticky;
+    @media only screen and (max-width: 600px){
+        position: relative;
+    }
+
+
+
+}
+
+.content {
+    padding: 2rem;
+    background-color: #92a5fd;
+    color: #e5eaF5;
+    
+
+}
+
+

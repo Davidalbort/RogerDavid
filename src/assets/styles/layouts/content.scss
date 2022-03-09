@@ -1,0 +1,53 @@
+.content-container{
+    /*background-color: #92a5fd;
+    color: #e5eaF5; */
+   
+    .section-data-personal{
+        display: grid;
+        grid-template-columns: minmax(22px, 5%) 1fr;
+        padding: 0;
+        margin: 20px 0px;
+        height: 60px;
+
+        
+    }
+    p{
+        margin: 20px 0px 0px 0px;
+        padding: 0;
+    }
+}
+    
+
+.content-container{
+
+    .icon-container{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .list-container{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        
+        
+        
+        ul{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            li{
+                color: #e5eaF5;
+                font-weight: bold;
+            }
+            
+         }
+
+    }
+}
+
