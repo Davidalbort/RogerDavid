@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Davidalbort.github.io/portfolio/static/css/main.5cf3d163.css",
+    "main.js": "/Davidalbort.github.io/portfolio/static/js/main.941ae48c.js",
+    "static/js/787.909e063d.chunk.js": "/Davidalbort.github.io/portfolio/static/js/787.909e063d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Davidalbort.github.io/portfolio/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/Davidalbort.github.io/portfolio/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/Davidalbort.github.io/portfolio/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/Davidalbort.github.io/portfolio/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/Davidalbort.github.io/portfolio/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/fa-regular-400.woff2": "/Davidalbort.github.io/portfolio/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Davidalbort.github.io/portfolio/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Davidalbort.github.io/portfolio/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "/Davidalbort.github.io/portfolio/index.html",
+    "main.5cf3d163.css.map": "/Davidalbort.github.io/portfolio/static/css/main.5cf3d163.css.map",
+    "main.941ae48c.js.map": "/Davidalbort.github.io/portfolio/static/js/main.941ae48c.js.map",
+    "787.909e063d.chunk.js.map": "/Davidalbort.github.io/portfolio/static/js/787.909e063d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf3d163.css",
+    "static/js/main.941ae48c.js"
+  ]
+}
